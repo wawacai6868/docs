@@ -6,6 +6,7 @@
 ![img](./images/zip.png)
 
 2. 双击 `Setup.exe` 安装软件
+
 ![img](./images/setup.png)
 
 3. 打开`Crack`目录下的`keygen.exe`
