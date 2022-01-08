@@ -1,24 +1,24 @@
 ---
 ### 下载、安装、注册软件
-0. [点击下载软件包](./file/Proxifier-4.07.zip)
+#### [点击下载软件包](./file/Proxifier-4.07.zip)
 
-1. 解压安装包
+#### 解压安装包
 ![img](./images/zip.png)
 
-2. 双击 `Setup.exe` 安装软件
+#### 双击 `Setup.exe` 安装软件
 
 ![img](./images/setup.png)
 
-3. 打开`Crack`目录下的`keygen.exe`
+#### 打开`Crack`目录下的`keygen.exe`
 ![img](./images/key_gen.png)
 
-4. 复制key
+#### 复制key
 ![img](./images/key.png)
 
-5. 打开软件,点击 `Enter Registration Key...`
+#### 打开软件,点击 `Enter Registration Key...`
 ![img](./images/reg_key.png)
 
-6. ① 任意输入 ② 输入刚才复制的key
+#### ① 任意输入 ② 输入刚才复制的key
 ![img](./images/reg.png)
 
 ### 配置代理服务
